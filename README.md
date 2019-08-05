@@ -1,2 +1,0 @@
-# BaiYuNian.github.io
-ui
